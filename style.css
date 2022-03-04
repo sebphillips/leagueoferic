@@ -19,8 +19,8 @@
    transform: translate(-50%, -50%);
 }
 .vimeo-hide {
-visibility:hidden;
+opacity:0;
 }
 .vimeo-hide iframe {
- opacity:0;
+opacity:0;
 }
