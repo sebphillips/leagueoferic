@@ -21,3 +21,6 @@
 .vimeo-hide {
 opacity: 0;
 }
+.vimeo-hide iframe {
+   opacity: 0;
+}
