@@ -22,5 +22,5 @@
 visibility:hidden;
 }
 .vimeo-hide iframe {
- visibility:hidden;
+ opacity:0;
 }
