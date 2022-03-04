@@ -20,7 +20,9 @@
 }
 .vimeo-hide {
 opacity: 0;
+pointer-events: none;
 }
 .vimeo-hide iframe {
    opacity: 0;
+   pointer-events: none;
 }
